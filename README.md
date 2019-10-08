@@ -4,10 +4,10 @@
 
 There existed a few blockchain-related and specific awesome lists, but none that had a primary focus on blockchain as a topic. Blockchain is a big topic, so ensure that the content here is AWESOME. The goal is not to have an exhaustive list of resources, but what is awesome to learn about. Focus is primarily for techies and developers who want to get into blockchain development.
 
+Make sure to not share too many duplicates than already exists in the [Decentralized Systems section](https://github.com/sindresorhus/awesome#decentralized-systems) of awesome.
 
 ## Contents
 
-- [Decentralized Systems awesome-list](awesome-blockchain-ai)
 - [Blockchain](#blockchain)
 - [Identity](#identity)
 - [Security](#security)
