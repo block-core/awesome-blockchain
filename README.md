@@ -27,7 +27,7 @@ Links focusing primarily on blockchain as an overall technology, its architectur
 
 ## Identity
 
-- [Desentralized Identity Foundation](http://identity.foundation/)
+- [Decentralized Identity Foundation](http://identity.foundation/)
 - [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c)
 - [The Rising Tide of Decentralized Identity](https://medium.com/decentralized-identity/the-rising-tide-of-decentralized-identity-2e163e4ec663)
 - [Identity Is the Dark Matter & Energy of Our World](http://www.backalleycoder.com/2018/01/25/identity-is-the-dark-matter-energy-of-our-world/)
