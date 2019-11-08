@@ -23,7 +23,7 @@ Links focusing primarily on blockchain as an overall technology, its architectur
 - [50+ Examples of How Blockchains are Taking Over the World](https://medium.com/@matteozago/50-examples-of-how-blockchains-are-taking-over-the-world-4276bf488a4b)
 - [Jameson Lopp :: Bitcoin Resources](http://lopp.net/bitcoin.html)
 - [Programming The Blockchain in C#](https://programmingblockchain.gitbooks.io/programmingblockchain/content/)
-
+- [Blockchain for developer](https://github.com/benstew/blockchain-for-software-engineers)
 
 ## Identity
 
